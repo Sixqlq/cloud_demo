@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.itcast.demo</groupId>
+    <groupId>com.qlq</groupId>
     <artifactId>cloud-demo</artifactId>
     <version>1.0</version>
     <modules>
@@ -13,6 +13,7 @@
         <module>eureka-server</module>
         <module>feign-api</module>
         <module>gateway</module>
+        <module>cloudalibaba-sentinel-service8401</module>
     </modules>
 
     <packaging>pom</packaging>
